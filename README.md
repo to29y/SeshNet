@@ -354,7 +354,7 @@ $$r = \frac{\sum_i B_i}{B_{\text{interface}}}$$
 
 ### الدعم
 
-إدعم ساش نت 💖
+إدعم سيش نت 💖
 <div align="center">
 
 <a href="https://www.buymeacoffee.com/AbdulrahmanTony"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a> <a href="https://ko-fi.com/R6R41P83SF"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi" /></a> <a href="ipn://S/to29y/instapay/974Fxv"><img src="https://img.shields.io/badge/InstaPay-@to29y-7C3AED?style=flat-square&logo=cashapp&logoColor=white" alt="InstaPay @to29y" /></a>
