@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.0",
-  "notes": "SeshNet Initial Release v0.1.0",
-  "pub_date": "2026-08-02T00:00:00Z",
+  "version": "v0.1.1",
+  "notes": "SeshNet Initial Release v0.1.1",
+  "pub_date": "2026-08-02T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNUNXUE4zSGVlOW54T1dyZHZoY0xoNDlqVm9NL2JhMnJYcVFUenpFOU1yNVcyejdKS2w3YmZnV2h6aWJSMUN5TWxTUS8zTy8zVEErM29Ic1JyMVd6RUQvWmJxUTFEaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjYwMjc1CWZpbGU6U2VzaE5ldF8wLjEuMF94NjQtc2V0dXAuZXhlClRCSTM1WVd2MUhKWTJCWFJuNXlQY3Y5UGFHVjBraTRzdmxDZDloWHNnOVc3Nlh2QU83THRjdWdaMU1iS1BBeWQyKzJLWklpc0ovZFkvNFdjYlFSTUFnPT0K",
-      "url": "https://github.com/to29y/SeshNet/releases/download/v0.1.0/SeshNet_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNUNXUE4zSGVlOXVEeWZLMW1mK21oTGYzSVlqQnl1amEzcTF2RU9vSWlBaVF6TXFqSjF6dGdHakF6SHJ1cVFLNytUNlgwd3FnWWNIdG5QUWh4dlNaVThoS1lqeHM5N1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjYxNzAwCWZpbGU6U2VzaE5ldF8wLjEuMV94NjQtc2V0dXAuZXhlCklKMXZySUs2UHRLb2JNVlpLcjdhMjE5azUvT002L21uQVNtYzAyWlBRVXphcGtTNm82MU4wbWcvS0RxNy9uYnY2VExKZWFqTDM2bkx2QlZrR3hCS0NRPT0K",
+      "url": "https://github.com/to29y/SeshNet/releases/download/v0.1.1/SeshNet_0.1.1_x64-setup.exe"
     }
   }
 }
