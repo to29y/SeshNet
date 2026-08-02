@@ -1,0 +1,11 @@
+{
+  "version": "v0.1.0",
+  "notes": "SeshNet Initial Release v0.1.0",
+  "pub_date": "2026-08-02T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/to29y/SeshNet/releases/download/v0.1.0/SeshNet_0.1.0_x64-setup.exe"
+    }
+  }
+}
